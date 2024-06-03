@@ -10,7 +10,14 @@
 
 ## Hello!, I'm Lani 👋
 
-With a solid 10-year track record across various sectors, I have demonstrated exceptional skills in interdisciplinary collaboration to align projects with client objectives and user needs, excelling as a Product Designer specialized in Data Analysis and Visualization. I have recently acquired advanced competencies in Statistical Modeling and Machine Learning. My passion is to provide innovative and high-value solutions to every project I engage in.
+- 💼 With a solid 10-year track record across various sectors, I have demonstrated exceptional skills in interdisciplinary collaboration to align projects with client objectives and user needs, excelling as a Product Designer specialized in Data Analysis and Visualization. I have recently acquired advanced competencies in Statistical Modeling and Machine Learning. My passion is to provide innovative and high-value solutions to every project I engage in.
+
+- 🔭 With a wide experience of 10 years, I bring a wealth of expertise to my role as a Product Designer. My career has taken me across various sectors including finance, investments, telecommunications, government, human resources, digital marketing, new technologies, and innovation. 
+
+- 🏅 I prioritize continuous collaboration with stakeholders, engineers, and end-users, ensuring that projects are aligned with client objectives and user needs. Holding a Master's degree in Digital Marketing from EUDE Business School and a Diploma in Data Science, I excel in crafting streamlined solutions that enhance user experiences.
+
+- 🌱 I am embarking on a new journey into the realm of Data Science. My goal is to leverage this fusion of expertise to enrich contributions to projects and companies. By integrating skills ranging from Product Design and Data Visualization to Machine Learning models and rigorous Data Analysis, I aim to bring comprehensive solutions to the table. 
+
 
 <!--
 **Lani-Dom/Lani-Dom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
