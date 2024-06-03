@@ -10,9 +10,7 @@
 
 ## Hello!, I'm Lani 👋
 
-- 💼 With a solid 10-year track record across various sectors, I have demonstrated exceptional skills in interdisciplinary collaboration to align projects with client objectives and user needs, excelling as a Product Designer specialized in Data Analysis and Visualization. I have recently acquired advanced competencies in Statistical Modeling and Machine Learning. My passion is to provide innovative and high-value solutions to every project I engage in.
-
-- 🔭 With a wide experience of 10 years, I bring a wealth of expertise to my role as a Product Designer. My career has taken me across various sectors including finance, investments, telecommunications, government, human resources, digital marketing, new technologies, and innovation. 
+- 🔭 With a wide experience of 10 years, I bring a wealth of expertise to my role as a Product Designer. My career has taken me across various sectors including finance, investments, telecommunications, government, human resources, digital marketing, new technologies, and innovation. My passion is to provide innovative and high-value solutions to every project I engage in.
 
 - 🏅 I prioritize continuous collaboration with stakeholders, engineers, and end-users, ensuring that projects are aligned with client objectives and user needs. Holding a Master's degree in Digital Marketing from EUDE Business School and a Diploma in Data Science, I excel in crafting streamlined solutions that enhance user experiences.
 
