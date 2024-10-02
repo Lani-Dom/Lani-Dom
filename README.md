@@ -8,13 +8,13 @@
 
 ---
 
-## Hello! I'm Lani 👋
+## 👋 Hello! I'm Lani 
 
 - 🔭 I am a professional with over 11 years of experience who combines the creativity of Product Design with the analytical rigor of Data Science. My background spans various sectors such as finance, telecommunications, government, human resources, and digital marketing.
 
 - 🏅 I have a unique approach that combines empathy for the user with strategic data-driven decisions (machine learning models and data analysis). My goal is to collaborate closely with stakeholders, engineers, and end-users to ensure that projects are not only aligned with client objectives but also effectively address user needs.
 
-## Core Competencies in Data Science ⚡
+## ⚡Core Competencies in Data Science 
 - Data Analysis
 Data Analysis, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Feature Engineering, Statistical Analysis
 
