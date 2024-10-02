@@ -15,13 +15,13 @@
 - 🏅 I have a unique approach that combines empathy for the user with strategic data-driven decisions (machine learning models and data analysis). My goal is to collaborate closely with stakeholders, engineers, and end-users to ensure that projects are not only aligned with client objectives but also effectively address user needs.
 
 ## ⚡Core Competencies in Data Science 
-- **Data Analysis: **
+- <b>Data Analysis: </b>
 Data Analysis, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Feature Engineering, Statistical Analysis
 
-- **Machine Learning Techniques: **
+- <b>Machine Learning Techniques: </b>
 Time Series, Supervised Learning, Predictive Modeling, Sentiment Analysis, Classification, Regression, Bootstrapping
 
-- **Tools and Libraries: **
+- <b>Tools and Libraries: </b>
 Python, Data Manipulation Libraries (Pandas, NumPy), Data Visualization (Matplotlib, Seaborn), Supervised Learning (Linear Regression, Logistic Regression, Random Forest), Boosting Algorithms (Gradient Boosting, LightGBM, XGBoost, CatBoost), Statistical Modeling (Statsmodels), Model Evaluation Techniques (Hyperparameter Tuning, Cross-Validation)
 
 
