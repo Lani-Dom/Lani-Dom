@@ -10,15 +10,15 @@
 
 ## Hello! I'm Lani 👋
 
-- 🔭 With a wide experience of 10 years, I bring a wealth of expertise to my role as a Product Designer. My career has taken me across various sectors including finance, investments, telecommunications, government, human resources, digital marketing, new technologies, and innovation. My passion is to provide innovative and high-value solutions to every project I engage in.
+- 🔭 I am a professional with over 11 years of experience who combines the creativity of Product Design with the analytical rigor of Data Science. My background spans various sectors such as finance, telecommunications, government, human resources, and digital marketing.
 
-- 🏅 I prioritize continuous collaboration with stakeholders, engineers, and end-users, ensuring that projects are aligned with client objectives and user needs. Holding a Master's degree in Digital Marketing from EUDE Business School and a Diploma in Data Science, I excel in crafting streamlined solutions that enhance user experiences.
-
-- 🌱 I am embarking on a new journey into the realm of Data Science. My goal is to leverage this fusion of expertise to enrich contributions to projects and companies. By integrating skills ranging from Product Design and Data Visualization to Machine Learning models and rigorous Data Analysis, I aim to bring comprehensive solutions to the table. 
+- 🏅 I have a unique approach that combines empathy for the user with strategic data-driven decisions (machine learning models and data analysis). My goal is to collaborate closely with stakeholders, engineers, and end-users to ensure that projects are not only aligned with client objectives but also effectively address user needs.
 
 
 <!--
 **Lani-Dom/Lani-Dom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🌱 
 
 Here are some ideas to get you started:
 
