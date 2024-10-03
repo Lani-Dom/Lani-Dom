@@ -19,8 +19,10 @@
 Data Treatment (Pandas, NumPy), Data Analysis, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization (Matplotlib, Seaborn), Feature Engineering, Statistical Analysis
 
 - <b>Machine Learning Techniques: </b>
-Time Series, Supervised Learning, Predictive Modeling, Sentiment Analysis, Classification, Regression, Bootstrapping, Model Training (Logistic Regression, Linear Regression, Random Forest, Decision Tree Regressor, Gradient Boosting, XGBoost, LightGBM, CatBoost, Dummy Classifier, etc.), Model Evaluation Techniques (Hyperparameter Tuning, Cross-Validation, Mean Squared Error, Accuracy Score, F1 Score, ROC AUC Score, Confusion Matrix, etc. ), Metrics (ROC Curve, Precision Score, Recall Score, etc.)
+Time Series, Supervised Learning, Predictive Modeling, Sentiment Analysis, Classification, Regression, Bootstrapping, Model Training (Logistic Regression, Linear Regression, Random Forest, Decision Tree Regressor, Gradient Boosting, XGBoost, LightGBM, CatBoost, Dummy Classifier, etc.)
 
+- <b>Model Evaluation and Metrics: </b>
+Model Evaluation Techniques (Hyperparameter Tuning, Cross-Validation, Mean Squared Error, Accuracy Score, F1 Score, ROC AUC Score, Confusion Matrix, etc.), Metrics (ROC Curve, Precision Score, Recall Score, etc.)
 
 <!--
 **Lani-Dom/Lani-Dom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
