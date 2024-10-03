@@ -16,14 +16,10 @@
 
 ## ⚡Core Competencies in Data Science 
 - <b>Data Analysis: </b>
-Data Analysis, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Feature Engineering, Statistical Analysis
+Data Treatment (Pandas, NumPy), Data Analysis, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization (Matplotlib, Seaborn), Feature Engineering, Statistical Analysis
 
 - <b>Machine Learning Techniques: </b>
-Time Series, Supervised Learning, Predictive Modeling, Sentiment Analysis, Classification, Regression, Bootstrapping
-
-- <b>Tools and Libraries: </b>
-Python, Data Manipulation Libraries (Pandas, NumPy), Data Visualization (Matplotlib, Seaborn), Supervised Learning (Linear Regression, Logistic Regression, Random Forest), Boosting Algorithms (Gradient Boosting, LightGBM, XGBoost, CatBoost), Statistical Modeling (Statsmodels), Model Evaluation Techniques (Hyperparameter Tuning, Cross-Validation)
-
+Time Series, Supervised Learning, Predictive Modeling, Sentiment Analysis, Classification, Regression, Bootstrapping, Model Training (Logistic Regression, Linear Regression, Random Forest, Decision Tree Regressor, Gradient Boosting, XGBoost, LightGBM, CatBoost, Dummy Classifier, etc.), Model Evaluation Techniques (Hyperparameter Tuning, Cross-Validation, Mean Squared Error, Accuracy Score, F1 Score, ROC AUC Score, Confusion Matrix, etc. ), Metrics (ROC Curve, Precision Score, Recall Score, etc.)
 
 
 <!--
