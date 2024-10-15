@@ -10,9 +10,10 @@
 
 ## 👋 Hello! I'm Lani 
 
-- 🔭 I am a professional with 11 years of experience, blending the creativity of Product Design with the analytical precision of Data Science. My background spans various sectors such as Finance, Telecommunications, Government, Human Resources, and Digital Marketing.
+- 🔭 As a Product Designer with 11 years of experience, I specialize in creating user-centered solutions driven by data. My expertise in Design, User Research, Machine Learning, and Data Analysis allows me to deeply understand user behavior and deliver impactful products.
 
-- 🏅 By combining empathy for the user with data-driven insights (Machine Learning and Data Analysis), I bring a flexible and strategic approach to solving complex problems. My goal is to collaborate closely with stakeholders, engineers, and end-users to ensure projects are aligned with client objectives while effectively addressing user needs.
+- 🏅 I enjoy working with cross-functional teams from initial research to implementation, as the diversity of perspectives and skills enriches the product creation process. This approach allows me to design solutions that are aligned with the real needs of users, clients, and the market.
+
 
 ## ⚡Core Competencies in Data Science 
 - <b>Data Analysis: </b>
